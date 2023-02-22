@@ -82,7 +82,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@SimonaPiz](https://www.example.it/) - feel free to contact me!
 
 
 <!-- Optional -->
