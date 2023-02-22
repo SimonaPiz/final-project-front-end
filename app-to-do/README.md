@@ -35,8 +35,13 @@ List the ready features here:
 
 
 ## Screenshots
-![Wireframe mobile - Home](../project/Wireframe/mobile%20-%20Home.png)
-![Wireframe mobile - Account](../project/Wireframe/mobile%20-%20Account.png)
+### Wireframe low fidelity - mobile - Home
+![Wireframe mobile - Home](https://user-images.githubusercontent.com/91121660/220623558-117612b6-41f2-41c5-8eec-ed521adb5271.png)
+![mobile - Home - Finestra Gestione Categorie](https://user-images.githubusercontent.com/91121660/220624810-39faa486-bdc2-499f-9bbc-c3abe8080049.png)
+![Finestra New Activity](https://user-images.githubusercontent.com/91121660/220624735-af05a3a5-e956-4fae-bb08-36c8ed0bb6ef.jpg)
+
+### Wireframe low fidelity - mobile - Account
+![Wireframe mobile - Account](https://user-images.githubusercontent.com/91121660/220623724-ec5fea3a-f0de-4e88-aa17-c7741ac9b277.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
